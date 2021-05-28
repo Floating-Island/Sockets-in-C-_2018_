@@ -1,0 +1,1 @@
+Only compile clientChoosePort.c and server.c
